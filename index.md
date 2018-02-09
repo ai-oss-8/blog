@@ -6,9 +6,8 @@ Node.js®는 Chrome V8 JavaScript 엔진으로 빌드된 JavaScript 런타임입
 ## 2. 어디에 쓰이는가?
 (TBA)
 
-## 3. 사용된 언어, 총 라인 수, 폴더 구조
+## 3. 사용된 언어
 - Javascript (58.1%), C++ (20.5%), Python (13.5%), C (4.0%), 등등
-- 
 
 
 ## 4. 개발환경 구성 방법
