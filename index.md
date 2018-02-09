@@ -14,3 +14,7 @@ Node.js®는 Chrome V8 JavaScript 엔진으로 빌드된 JavaScript 런타임입
 ## 4. 개발환경 구성 방법
 Check [BUILD.MD](https://github.com/nodejs/node/blob/master/BUILDING.md)
 
+## 5. Contribution 정리
+- 기여자들은 [Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)를 따라야 함
+- 버그 레포트 제출 시 Version/Platform/Subsystem 등의 정보를 포함하는 format으로 제출하여야 함
+- PR에 대해서 코드를 리뷰하는 사람들은 프로젝트와 개개인의 contribution에 대한 책임을 지님. 자세한 내용은 [여기](https://github.com/nodejs/node/blob/master/doc/guides/contributing/pull-requests.md) 참고
